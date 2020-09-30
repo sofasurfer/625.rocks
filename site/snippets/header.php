@@ -13,7 +13,7 @@
     --main-bg-color: <?= site()->bgcolor(); ?>
   }
   </style>
-  <?= css('assets/css/index.css?v=2.4') ?>
+  <?= css('assets/css/index.css?v=2.5') ?>
 
 </head>
 <body>
