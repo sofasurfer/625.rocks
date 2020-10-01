@@ -879,7 +879,7 @@ nav.navigation{
 
 #hamburg:checked ~ nav.navigation{
   display: block;
-  top: 260px;
+  top: 230px;
   bottom: 0px;
   left: 0px;
   right: 0px;
@@ -1209,7 +1209,7 @@ nav.navigation{
   }
 
   #hamburg:checked ~ nav.navigation {
-      top: 150px;
+      top: 200px;
       height: 100%;
       bottom: 0px;
   }
